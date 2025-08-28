@@ -1,1 +1,1 @@
-![Profile image](https://raw.githubusercontent.com/joshuasibug/Joshua-P.-Sibug/refs/heads/main/Profile.jpg
+![Profile Image](https://github.com/joshuasibug/Joshua-P-Sibug/blob/main/Profile.jpg?raw=true)
