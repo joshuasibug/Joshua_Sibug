@@ -22,4 +22,4 @@ Calzadang Bayu Elementary School S.Y 2012-2018
 ✉️ Email: jsibug24-0009@cca.edu.ph
 💻 Social: FB: Joshua Sibug
 📞 contact #: 09070555338
-Thanks for visiting my profile i hope you are happy, God bless! 😊
+<h3>Thanks for visiting my profile i hope you are happy, God bless! 😊</h3>
