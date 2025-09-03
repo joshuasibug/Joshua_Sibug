@@ -35,5 +35,6 @@ Calzadang Bayu Elementary School S.Y 2012-2018
 - Midterm Paired Task 1: https://docs.google.com/document/d/1UzJ6Q_VExp4yL5Fym-hRrcGXS5KBu6-3BJDTDaSqknc/edit?usp=sharing
 
 - Midterm Lab Task 1 Getting started with Python: https://docs.google.com/document/d/1lfKJW_3HUCAP-ky8t_vRwV3WfUZCskthHAwIt2q-_CQ/edit?usp=sharing
+- Midterm Lab Task 2. Using Loops and Selection statements: https://docs.google.com/document/d/1fNgn_w22LqF4D0Ta2k4QYacoKRkMitDU3I34AUkaHHo/edit?usp=sharing
 
 <h3>Thanks for visiting my profile i hope you are happy, God bless! 😊</h3>
