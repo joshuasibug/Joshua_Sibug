@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/7155d5c8-eb24-4e57-8bc4-d6f60af6705c" alt="image" width="200" height="200">
+
 # 👋Hello, i'm Joshua P. Sibug
 i'm currently studying at City College Of Angeles as a BSCS student.
 
