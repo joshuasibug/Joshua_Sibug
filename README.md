@@ -19,7 +19,10 @@ Angeles City National Trade School (JHS) S.Y 2018-2022
 Calzadang Bayu Elementary School S.Y 2012-2018
 
 ## ☎️"Contact me"
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Xt6MBugRe/)
+
 ✉️ Email: jsibug24-0009@cca.edu.ph
-💻 Social: FB: Joshua Sibug
+
 📞 contact #: 09070555338
+
 <h3>Thanks for visiting my profile i hope you are happy, God bless! 😊</h3>
