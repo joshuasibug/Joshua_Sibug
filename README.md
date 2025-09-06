@@ -31,6 +31,8 @@ Calzadang Bayu Elementary School S.Y 2012-2018
 
 📞 contact #: 09070555338
 
+[![Call Me](https://img.shields.io/badge/Call-09070555338-brightgreen?style=for-the-badge&logo=phone&logoColor=white)](tel:09070555338)
+
 ## "My Project Links"
 
 Here's a list of my projects:
