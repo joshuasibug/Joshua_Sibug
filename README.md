@@ -27,14 +27,7 @@ Calzadang Bayu Elementary School S.Y 2012-2018
 ## ☎️"Contact me"
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Xt6MBugRe/) Joshua P. Sibug
 
-
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsibug24-0009@cca.edu.ph)
-
-Feel free to reach out to me via email at [jsibug24-0009@cca.edu.ph](mailto:jsibug24-0009@cca.edu.ph) for any inquiries or collaborations.
-
-
-📧 Email: jsibug24-0009@cca.edu.ph
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsibug24-0009@cca.edu.ph) jsibug24-0009@cca.edu.ph
 
 📞 contact #: 09070555338
 
