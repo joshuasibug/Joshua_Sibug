@@ -29,10 +29,8 @@ Calzadang Bayu Elementary School S.Y 2012-2018
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsibug24-0009@cca.edu.ph) jsibug24-0009@cca.edu.ph
 
-📞 contact #: 09070555338
-
-[![Call Me]
-(https://img.shields.io/badge/Call-09070555338-brightgreen?style=for-the-badge&logo=phone&logoColor=white)](tel:09070555338)
+[![Call
+Me](https://img.shields.io/badge/Call-09070555338-brightgreen?style=for-the-badge&logo=phone&logoColor=white)](tel:09070555338)
 
 ## "My Project Links"
 
