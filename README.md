@@ -41,6 +41,7 @@ Here's a list of my projects:
 *   **Midterm Lab Task 1 Getting started with Python:** [View Project](https://docs.google.com/document/d/1lfKJW_3HUCAP-ky8t_vRwV3WfUZCskthHAwIt2q-_CQ/edit?usp=sharing)
 
 *   **Midterm Lab Task 2. Using Loops and Selection statements:** [View Project](https://docs.google.com/document/d/1fNgn_w22LqF4D0Ta2k4QYacoKRkMitDU3I34AUkaHHo/edit?usp=sharing)
-
+*   **Midterm Lab Task 3. Using List Collections:**  [View Project]
+*   **Midterm Lab Task 4. Using Dictionary Collections:**  [View Project](https://docs.google.com/document/d/115aIgoNq_RvKVcX8teE7BKIM5Y6owLyfiX__2K4tQb8/edit?usp=sharing)
 
 <h3>Thanks for visiting my profile i hope you are happy, God bless! 😊</h3>
