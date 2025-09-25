@@ -43,5 +43,6 @@ Here's a list of my projects:
 *   **Midterm Lab Task 2. Using Loops and Selection statements:** [View Project](https://docs.google.com/document/d/1fNgn_w22LqF4D0Ta2k4QYacoKRkMitDU3I34AUkaHHo/edit?usp=sharing)
 *   **Midterm Lab Task 3. Using List Collections:**  [View Project]
 *   **Midterm Lab Task 4. Using Dictionary Collections:**  [View Project](https://docs.google.com/document/d/115aIgoNq_RvKVcX8teE7BKIM5Y6owLyfiX__2K4tQb8/edit?usp=sharing)
+*   **Midterm Lab Task 5. Creating and Instantiating Classes:** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/ETqNa0dKgONFiz2JLI66pEEBn0D2EV0zedWGlonl3Ynq1Q?e=4td3cS)
 
 <h3>Thanks for visiting my profile i hope you are happy, God bless! 😊</h3>
