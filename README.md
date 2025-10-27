@@ -1,6 +1,5 @@
 <img src="https://github.com/user-attachments/assets/7155d5c8-eb24-4e57-8bc4-d6f60af6705c" alt="image" width="200" height="200">
 
-
 # 👋Hello, I'm Joshua P. Sibug! Welcome to my Portfolio!
 
 A BSCS student at City College of Angeles and a beginner in programming. I'm currently learning and building knowledge to improve my programming skills.
