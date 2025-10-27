@@ -1,10 +1,9 @@
 <img src="https://github.com/user-attachments/assets/7155d5c8-eb24-4e57-8bc4-d6f60af6705c" alt="image" width="200" height="200">
 
-# 👋Hello, i'm Joshua P. Sibug, Welcome to my Portfolio in 7OOP.
-I'm currently studying at City College Of Angeles as a BSCS student.
+# 👋Hello, I'm Joshua P. Sibug! Welcome to my Portfolio
 
-## 📖"WELCOME TO MY PORTFOLIO"
-I'm a beginner in programming and i'm currently learning and building knowledge to improve my programming skills.
+A BSCS student at City College of Angeles and a beginner in programming. I'm currently learning and building knowledge to improve my programming skills.
+
 
 ## 👨‍💼 "About me"
 😎 I'm 19 years old and currently a 2nd-year Computer Science student at CCA (City College of Angeles).
@@ -34,7 +33,7 @@ Me](https://img.shields.io/badge/Call-09070555338-brightgreen?style=for-the-badg
 
 ## "My Project Links"
 
-Here's the list of my lab avtivity projects:
+Here's the list of my laboratory avtivity projects in Object Oriented Programming:
 
 *   **Midterm Paired Task 1:** [View Project](https://docs.google.com/document/d/1UzJ6Q_VExp4yL5Fym-hRrcGXS5KBu6-3BJDTDaSqknc/edit?usp=sharing)
 
