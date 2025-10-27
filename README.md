@@ -51,4 +51,4 @@ Here's the list of my laboratory avtivity projects in Object Oriented Programmin
 *   **Midterm Lab Task 6. Overloaded Consturctors:** [View Project](https://drive.google.com/file/d/122NCGk8rW-X3xvtEMIN3riw_ukkLChTj/view?usp=drivesdk)
 <hr style="border:1px solid #ccc;">
 
-## <h3>Thanks for visiting my portfolio God bless! 😊</h3>
+<h3>Thanks for visiting my portfolio God bless! 😊</h3>
