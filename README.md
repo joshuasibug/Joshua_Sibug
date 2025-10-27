@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/7155d5c8-eb24-4e57-8bc4-d6f60af6705c" alt="image" width="200" height="200">
 
 
-# 👋Hello, I'm Joshua P. Sibug! Welcome to my Portfolio!</p>
+# 👋Hello, I'm Joshua P. Sibug! Welcome to my Portfolio!
 
 A BSCS student at City College of Angeles and a beginner in programming. I'm currently learning and building knowledge to improve my programming skills.
 <hr style="border:1px solid #ccc;">
@@ -51,4 +51,4 @@ Here's the list of my laboratory avtivity projects in Object Oriented Programmin
 *   **Midterm Lab Task 6. Overloaded Consturctors:** [View Project](https://drive.google.com/file/d/122NCGk8rW-X3xvtEMIN3riw_ukkLChTj/view?usp=drivesdk)
 <hr style="border:1px solid #ccc;">
 
-<h3>Thanks for visiting my portfolio God bless! 😊</h3>
+<h3> Thanks for visiting my portfolio God bless! 😊 </h3>
