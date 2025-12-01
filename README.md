@@ -62,9 +62,9 @@ Here's the list of my Final laboratory avtivity projects in Object Oriented Prog
 
 *   **PRACTICE DEMO task using Python GUI:** [View Project](https://drive.google.com/file/d/1WDaSkN2dU6p94u0ZdYf1EH346_8aZVdr/view?usp=drivesdk)
 
-*   ** :** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/IQBMxXXjPTKUTaXRUt5aX5v1AQz__KcqdpEGTCRtVTE0JT4?e=oM6Oy8)
+*   **Finals task 4. Designing Tkinter GUI using OOP:** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/IQBMxXXjPTKUTaXRUt5aX5v1AQz__KcqdpEGTCRtVTE0JT4?e=oM6Oy8)
 
-*   ** :** [View Project]()
+*   **Finals Task 5. Grading Program using Tkinter:** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/IQC0lX6UJSZfRqTPyWA89g1FAS8fOmxDueQepSDcbjVpxFE?e=HOUS1r)
 
 *   ** :** [View Project]()
 
