@@ -57,6 +57,16 @@ Here's the list of my Final laboratory avtivity projects in Object Oriented Prog
 
 *   **Finals Task 2. Inheritance:** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/IQAv0tMf_GHJSatMayxsZguWAYX6SQ976bhALgAeMEPBStg?e=88er6I)
 
-*   **[View Project]()
+*   **Finals Task 3. Polymorphism:** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/IQCDO8kfHW7ETry24G7A-lFhASnNlTxBt0kdQJnVSUjt1sU?e=XTm5td)
+
+
+*   ** :** [View Project]()
+
+*   ** :** [View Project]()
+
+*   ** :** [View Project]()
+
+*   ** :** [View Project]()
+
 
 <h3> Thanks for visiting my portfolio God bless! 😊 </h3>
