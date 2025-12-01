@@ -60,9 +60,9 @@ Here's the list of my Final laboratory avtivity projects in Object Oriented Prog
 *   **Finals Task 3. Polymorphism:** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/IQCDO8kfHW7ETry24G7A-lFhASnNlTxBt0kdQJnVSUjt1sU?e=XTm5td)
 
 
-*   ** :** [View Project]()
+*   **PRACTICE DEMO task using Python GUI:** [View Project](https://drive.google.com/file/d/1WDaSkN2dU6p94u0ZdYf1EH346_8aZVdr/view?usp=drivesdk)
 
-*   ** :** [View Project]()
+*   ** :** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/IQBMxXXjPTKUTaXRUt5aX5v1AQz__KcqdpEGTCRtVTE0JT4?e=oM6Oy8)
 
 *   ** :** [View Project]()
 
