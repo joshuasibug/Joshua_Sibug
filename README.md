@@ -37,7 +37,7 @@ Me](https://img.shields.io/badge/Call-09070555338-brightgreen?style=for-the-badg
 
 ## 🖥️"My Project Links"
 
-# Here's the list of my Midterm laboratory avtivity projects in Object Oriented Programming:
+### Here's the list of my Midterm laboratory avtivity projects in Object Oriented Programming:
 
 *   **Midterm Paired Task 1:** [View Project](https://docs.google.com/document/d/1UzJ6Q_VExp4yL5Fym-hRrcGXS5KBu6-3BJDTDaSqknc/edit?usp=sharing)
 
@@ -51,7 +51,7 @@ Me](https://img.shields.io/badge/Call-09070555338-brightgreen?style=for-the-badg
 <hr style="border:1px solid #ccc;">
 
 
-# Here's the list of my Final laboratory avtivity projects in Object Oriented Programming:
+### Here's the list of my Final laboratory avtivity projects in Object Oriented Programming:
 
 *   **Finals Lab Task 1. Encapsulation:** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/IQD3Qb184DNJRJIWd14-VvgoAQvmnv4DcGfBxovR1Jh_RDk?e=PvMCj0)
 
