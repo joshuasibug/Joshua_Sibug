@@ -55,4 +55,8 @@ Here's the list of my Final laboratory avtivity projects in Object Oriented Prog
 
 *   **Finals Lab Task 1. Encapsulation:** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/IQD3Qb184DNJRJIWd14-VvgoAQvmnv4DcGfBxovR1Jh_RDk?e=PvMCj0)
 
+*   **Finals Task 2. Inheritance:** [View Project](https://1drv.ms/w/c/882dc5e77dd2129d/IQAv0tMf_GHJSatMayxsZguWAYX6SQ976bhALgAeMEPBStg?e=88er6I)
+
+*   **[View Project]()
+
 <h3> Thanks for visiting my portfolio God bless! 😊 </h3>
